@@ -19,6 +19,15 @@ RISC-V Processor Architecture Development and Performance Analysis: A Case Study
 
 RISC-V 处理器架构技术发展和性能分析：以玄铁 C906 处理器为例
 
+## 成员分工
+
+| 姓名 | 学号 | 分工 | 工作量 |
+| :---: | :---: | :---: | :---: |
+| 林继申 | 2250758 | 引言、RISC-V 架构技术发展 | 25% |
+| 朱昱瑾 | 2250693 | 玄铁 C906 处理器详解 | 25% |
+| 陈君 | 2250420 | RISC-V 架构性能分析 | 25% |
+| 奥泉瑞 | 2250695 | 摘要、总结 | 25% |
+
 ## 仓库组成
 
 * `Presentation.pptx`
@@ -35,4 +44,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年6月12日
+2024年6月18日
